@@ -85,8 +85,3 @@ Special thanks to Sanjana for her invaluable support and contributions.
 ## Future Enhancements
 - Improving image and checkbox extraction functionalities.
 
-## Contact
-For inquiries, please contact: kedharnadh800@gmail.com
-
-## License
-This project is licensed under the MIT License—please refer to the LICENSE file for more details.
